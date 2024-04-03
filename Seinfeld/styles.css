@@ -27,16 +27,6 @@ body {
     width: 20vw;
 }
 
-/* #kramer {
-    height: 50vh;
-    width: 20vw
-}
-
-#elaine {
-    height: fit-content;
-    width: fit-content;
-} */
-
 img {
     display: flex;
     justify-content: center;
@@ -61,11 +51,6 @@ img {
     margin: 50px;
     height: 20vh;
     
-}
-
-.title,
-h2 {
-    /* padding: 30px; */
 }
 
 .title {
@@ -98,7 +83,7 @@ button {
   }
 
   .box {
-    border: 10px solid red;
+    border: 5px solid red;
     height: 100px;
     width: 70vw;
     border-radius: 8px;
